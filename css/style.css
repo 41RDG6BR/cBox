@@ -1,0 +1,7 @@
+.combo-box h3 {
+  font-size: 1.2em;
+}
+.combo-box h3, p {
+  margin-top: 0;
+}
+/* add additional custom styles */
